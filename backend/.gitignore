@@ -1,0 +1,4 @@
+
+# Django / local DB
+db.sqlite3
+*.sqlite3
