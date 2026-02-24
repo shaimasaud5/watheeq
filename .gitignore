@@ -1,23 +1,5 @@
-# Env / secrets
-.env
-.env.*
-
-# Python
+venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
-
-# macOS
-.DS_Store
-
-# Node / React
-node_modules/
-dist/
-build/
-
-# Django
-*.log
-media/
-staticfiles/
-
+db.sqlite3
+.env
